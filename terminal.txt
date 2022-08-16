@@ -4,3 +4,5 @@ dir -> lista os diretórios da pasta atual
 mkdir nomepasta -> cria uma pasta com o nome escolhido no diretório atual
 type nul > nomearquivo.js -> cria um arquivo em qualquer extensão desejada.
 cls - limpa o terminal
+npm install pacote -> instala o pacote desejado
+npm remove pacote -> remove pacote
