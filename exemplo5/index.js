@@ -1,12 +1,12 @@
 import chalk from 'chalk';
 let aluno = "Guilherme";
-let idade = 33;
+let idade = 3;
 
 if(idade >=18){
     console.log(`${aluno} ${chalk.bgGreen("é maior de idade!")}`);
 }else{
     
-    console.log(`${aluno} ${chalk.red("é menor de idade!")}`)
+    console.log(`${aluno} ${chalk.bgRed("é menor de idade!")}`)
 }
 
 /* 
