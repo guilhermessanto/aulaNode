@@ -6,3 +6,5 @@ type nul > nomearquivo.js -> cria um arquivo em qualquer extensão desejada.
 cls - limpa o terminal
 npm install pacote -> instala o pacote desejado
 npm remove pacote -> remove pacote
+npm install -g nodemon ->atualiza o servidor automaticamente
+npm install ejs -> preparar para receber js no html
