@@ -8,3 +8,4 @@ npm install pacote -> instala o pacote desejado
 npm remove pacote -> remove pacote
 npm install -g nodemon ->atualiza o servidor automaticamente
 npm install ejs -> preparar para receber js no html
+npm init - criação do package.json
